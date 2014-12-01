@@ -1,0 +1,22 @@
+{
+  "name": "jquery-zoom",
+  "version": "1.7.13",
+  "description": "A small jQuery plugin for zooming images on mouseover or mousedown. See the project page for documentation and a demonstration. Released under the MIT license.",
+  "main": "jquery.zoom.js",
+  "scripts": {
+    "test": "test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rne/zoom.git"
+  },
+  "author": "Jack Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rne/zoom/issues"
+  },
+  "homepage": "https://github.com/rne/zoom",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
